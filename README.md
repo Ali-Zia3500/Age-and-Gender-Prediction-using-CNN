@@ -8,6 +8,12 @@ This project uses a **Convolutional Neural Network (CNN)** to predict the **age*
   ## Dataset
 The dataset used in this project is the **UTKFace dataset** which contains over 20,000 images labeled with age, gender, and ethnicity.
 
+Due to the size of the dataset, it is not hosted directly on GitHub. You can download the dataset from the following link:
+
+[Download UTKFace Dataset](https://www.kaggle.com/datasets/jangedoo/utkface-new)
+
+Make sure to place the dataset in the appropriate directory before running the project.
+
 
 ## Tools and Libraries
 This project uses the following libraries:
